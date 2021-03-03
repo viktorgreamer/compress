@@ -1,0 +1,12 @@
+{
+    "name": "viktor/compress",
+    "authors": [
+        {
+            "name": "Viktor Vasilev",
+            "email": "an.viktory@gmail.com"
+        }
+    ],
+    "require": {
+        "imagine/imagine": "~0.5.0"
+    }
+}
